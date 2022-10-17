@@ -21,8 +21,4 @@ Clase Abstracta:
 	* Sirve para proporcionar una super clase apropiada a partir
 	de la cual heredan otras clases.
 
-TERMINAR SECCION 9 A LA 12 LISTAS! 
-DESPUES SEGUIR CON LAS SECCIONES QUE ME PASE ( SECCION 2 AL 8 )
-
-QUEDARIAN LAS SECCIONES 13 - 14 - 15 (ARCHIVOS Y BASES DE DATOS)
 
