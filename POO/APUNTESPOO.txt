@@ -1,0 +1,28 @@
+clase final:
+	- Signifca que no va a poder heredar ningun hijo de esa subclase
+Metodo final:
+  - No puede existir ningun metodo con el mismo nombre en las subclases
+	que salgan de esta
+
+Sobrecarga de metodos : Cuando en una clase hay dos metodo con el mismo nombre
+pero diferente tipo de dato.
+
+Sobre escritura de miembros (atributo como metodos): Cuando hay un metodo
+de una clase que es heredada, este se sobreescribe para que pueda ser usado
+por la clase que esta heredando a ese metodo.
+
+--------
+
+Clases y métodos Abstractos:
+
+Clase Abstracta:
+	* Se utilizan sólo como super clases
+	* No se pueden instanciar objetos
+	* Sirve para proporcionar una super clase apropiada a partir
+	de la cual heredan otras clases.
+
+TERMINAR SECCION 9 A LA 12 LISTAS! 
+DESPUES SEGUIR CON LAS SECCIONES QUE ME PASE ( SECCION 2 AL 8 )
+
+QUEDARIAN LAS SECCIONES 13 - 14 - 15 (ARCHIVOS Y BASES DE DATOS)
+
