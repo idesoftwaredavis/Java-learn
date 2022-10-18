@@ -1,24 +1,74 @@
+///// CONDICIONALES //////
+-- EVALUACION DE CONDICION Y DEPENDIENDO DE ESTA SE REALIZA UNA ACCION U OTRA.
+
+-- Operador de asignacion -->   =
+-- Operador de igualdad -->    ==
+
+Operadores :
+
+== : Igualdad
+!= : Diferencia
+> : Mayor
+>= : Mayor o igual
+< : Menor
+<= : Menor o igual
+
+//// CONDICIONALES SIMPLES //////
+IF - ELSE
+//// CONDICIONALES MULTIPLES /////
+SWITCH
+///// OPERADOR TERNARIO //////
+  * VALOR = (CONDICION) ? VALOR 1 : VALOR 2
+
+
+//// ORDENAMIENTO DE ARRAYS /////
+
+METODO BURBUJA --> ALGORITMO DE ORDENAMIENTO.
+    FUNCIONAMIENTO : REVISA CADA ELEMENTO DE LA LISTA QUE VA A SER
+                     ORDENADA CON EL SIGUIENTE, INTERCAMBIANDOLOS
+                     DE POSICION SI ESTAN EN EL ORDEN EQUIVOCADO.
+    OBSERVACION : SE VUELVE AL INICIO HASTA QUE LA CONDICION SE
+                  COMPLETE Y ESTEN TODOS DE MANERA ASCENDENTE.
+
+
+METODO INSERCION -->
+    FUNCIONAMIENTO : COMPRUEBA SI AL IZQUIERDA DEL NUMERO HAY UN NUMERO
+                     Y APLICA ESTA CONDICION :
+
+                     ( SI NUMERO_IZQUIERDA > NUMERO_ACTUAL ) -> CAMBIAR NUMEROS
+
+
+
 clase final:
 	- Signifca que no va a poder heredar ningun hijo de esa subclase
 Metodo final:
   - No puede existir ningun metodo con el mismo nombre en las subclases
 	que salgan de esta
 
-Sobrecarga de metodos : Cuando en una clase hay dos metodo con el mismo nombre
-pero diferente tipo de dato.
+Sobrecarga de metodos :
+        Cuando en una clase hay dos metodo con el mismo nombre
+        pero diferente tipo de dato.
 
-Sobre escritura de miembros (atributo como metodos): Cuando hay un metodo
-de una clase que es heredada, este se sobreescribe para que pueda ser usado
-por la clase que esta heredando a ese metodo.
+Sobre escritura de miembros (atributo como metodos):
+        Cuando hay un metodo
+        de una clase que es heredada, este se sobreescribe para que pueda ser usado
+        por la clase que esta heredando a ese metodo.
 
 --------
 
 Clases y métodos Abstractos:
 
 Clase Abstracta:
-	* Se utilizan sólo como super clases
+Metodo abstracto : No sabes como implementarlo pero si o si necesitas ponerlo.
+    * Si el metodo es abstracto, la clase tambien lo es.
+    * Es generico en su concepto.
+	* Se utilizan sólo como super clases ( Clase Padre )
 	* No se pueden instanciar objetos
 	* Sirve para proporcionar una super clase apropiada a partir
 	de la cual heredan otras clases.
 
 
+HERENCIA MULTIPLE:
+
+    - HACE REFERENCIA A LA CARACTERISTICA DE LOS LENGUAJES EN LA QUE UNA CLASE
+      PUEDE HEREDAR ATRIBUTOS Y METODOS DE MAS DE UNA SUPERCLASE.
