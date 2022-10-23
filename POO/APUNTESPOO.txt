@@ -72,3 +72,20 @@ HERENCIA MULTIPLE:
 
     - HACE REFERENCIA A LA CARACTERISTICA DE LOS LENGUAJES EN LA QUE UNA CLASE
       PUEDE HEREDAR ATRIBUTOS Y METODOS DE MAS DE UNA SUPERCLASE.
+
+
+
+////////// ARCHIVOS ///////////
+
+- Es una forma en que nuestros datos puedan ser persistentes.
+
+- Un archivo o fichero informatico es un conjunto de bits almacenados en un dispositivo.
+- Un archivo es identificado por un nombre y la descripcion de la carpeta o directorio que lo conteiene.
+- Un archivo facilitan la manera de organizar los recursos usados para almacenar permanentemente datos en un sistema informatico virtual.
+
+- Archivos Binarios : Contienen informacion de cualquier tipo, codificada para el almacenamiento y procesamiento en ordenadores.
+
+
+///// RUTAS /////
+Ruta Absoluta :Los directorios que hay que seguir para llegar al archivo.
+Ruta Relativa : Funciona siempre y cuando este dentro de la localizacion java (Proyecto)
