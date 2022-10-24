@@ -1,0 +1,15 @@
+encapsulamiento : 
+
+private : solamente los metodos de la misma clase pueden utilizarlo
+default : Utilizarlo en clases del mismo paquete
+public : Pueden ser accedidos desde otros paquetes/clases
+
+encapsulamiento: ocultar algunos datos para que no puedan
+modificarlo, si no en metodos especificos de la clase.
+
+metodos accesadores : Sirven para manipular atributos
+que se encuentran encapsulados
+
+constante: valor inalterable durante la ejecucion de un programa.
+
+miembros pertenecientes de una clase : Static

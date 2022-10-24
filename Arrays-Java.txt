@@ -1,0 +1,16 @@
+//////////////   ARRAYS ////////////////////
+Un array en java es una estructura de datos
+que nos permite almacenar un conjunto de datos
+de un mismo tipo.
+
+El tamaño de los arrays se declara en un primer 
+momento y no puede cambiar luego durante la ejecucion
+del programa.
+
+///////////// ARRAYS UNIDIMENSIONALES /////////////7
+
+La sintaxis para declarar es : 
+
+Tipo_Variable[] Nombre_Array = new Tipo_Variable[dimension];
+
+o --> int[] numeros = {5,7,9};
